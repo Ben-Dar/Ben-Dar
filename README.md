@@ -1,3 +1,4 @@
+[![MasterHead](https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif)
 <h1 align="center">Hi 👋, I'm Benjamin Dariya</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
