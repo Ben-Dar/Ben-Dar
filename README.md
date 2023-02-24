@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif)
 <h1 align="center">Hi 👋, I'm Benjamin Dariya</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ben-dar&label=Profile%20views&color=0e75b6&style=flat" alt="ben-dar" /> </p>
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/@benjamin_dariya" target="blank"><img src="https://img.shields.io/twitter/follow/@benjamin_dariya?logo=twitter&style=for-the-badge" alt="@benjamin_dariya" /></a> </p>
 
-- 🔭 I’m currently working on **Multiple Projects**
+- 🔭 I’m currently working on **ALOTTT....**
 
-- 🌱 I’m currently learning **React.js,PHP,MYSQL**
+- 🌱 I’m currently learning **React.js, PHP, MYSQL**
 
-- 👯 I’m looking to collaborate on **Anything Fun**
+- 👯 I’m looking to collaborate on **Anything Fun And Challenging**
 
-- 💬 Ask me about **we'll discuss that when you contact me**
+- 💬 Ask me about **Anything Tech related......And maybe other stuff**
 
 - 📫 How to reach me **benjamindariya3@gmail.com**
 
